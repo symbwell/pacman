@@ -1,5 +1,4 @@
-Autor: Oliwer Lisek - Studia N1 Informatyka, Nr albumu 33464.
-Data spakowania 26.01.2023.
+Autor: Oliwer Lisek
 
 Instrukcja:
 1. Po uruchomieniu określić ilośc wrogów - maksymalnie 20, minimalnie 1.
