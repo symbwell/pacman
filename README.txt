@@ -1,13 +1,13 @@
 Autor: Oliwer Lisek
 
-Instrukcja:
-1. Po uruchomieniu określić ilośc wrogów - maksymalnie 20, minimalnie 1.
-2. Oznaczenia:
-	- P - gracz
-	- M - potwór
-	- * - owoc
-3. Poruszanie się za pomocą W - góra, S - dół, A - lewo, D - prawo. 
-4. Każdy owoc to 10 punktów.
-5. Potwory poruszaja się wolniej od gracza (opóźnienie nieblokujące z użyciem zegara).
-6. Po przegranej wynik jest zapisywany do pliku score wraz z datą oraz imieniem potwora, który nas zabił.
-7. Imiona są pobierane z pliku names.txt. Można je dowolnie edytować. Ich ilość powinna być większa niż 20. 
+Instruction:
+1. After run you need to type how many monsters should be on the board (max. 20, min. 1)
+2. Designations:
+	- P - player
+	- M - monster
+	- * - fruit
+3. Moves: W - top, S - down, A - left, D - right.
+4. Every fruit means 10 points.
+5. The monsters moves slowely than player (non-blocking delay with using system clock).
+6. After end game your score is save to the file "score.txt".
+7. Monsters names read from file "names.txt". Feel free to edit this list. The file should contain minimum 20 names.
